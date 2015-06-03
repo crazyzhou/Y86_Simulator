@@ -1,0 +1,13 @@
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Pipeline Simulator.csprojResolveAssemblyReference.cache
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Pipeline Simulator.csproj.GenerateResource.Cache
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Users\GU\Desktop\lab3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
